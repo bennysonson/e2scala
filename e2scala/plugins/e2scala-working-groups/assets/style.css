@@ -1,0 +1,15 @@
+/*
+    Theme Name: E2SCALA_Stylesheet
+    Author: Marcus Lerro
+    Description: Styling for the E2SCALA site
+    Version: 1.0
+    License: GNU General Public License v2 or later
+    License URI: http://www.gnu.org/licenses/gpl-2.0.html
+    Text Domain: e2scala_stylesheet
+*/
+#requestform {
+    position: absolute;
+    top:  50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}

@@ -1,0 +1,11 @@
+{
+    "name": "e2scala/e2scala-working-groups",
+    "autoload": {
+        "psr-4": {
+            "E2scala\\E2scalaWorkingGroups\\": "src/"
+        }
+    },
+    "require-dev": {
+        "yoast/phpunit-polyfills": "^1.0"
+    }
+}

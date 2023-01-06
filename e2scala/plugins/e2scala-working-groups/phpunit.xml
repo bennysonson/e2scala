@@ -1,0 +1,9 @@
+<phpunit bootstrap="tests/phpunit/bootstrap.php" backupGlobals="false"
+        colors="false" convertErrorsToExceptions="true"
+        convertNoticesToExceptions="true" convertWarningsToExceptions="true">
+        <testsuites>
+                <testsuite name="E2SCALA Working Groups Tests">
+                        <file>tests/phpunit/tests/test-e2scala-working-groups.php</file>
+                </testsuite>
+        </testsuites>
+</phpunit>

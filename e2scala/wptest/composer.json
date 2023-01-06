@@ -1,0 +1,9 @@
+{
+    "name": "e2scala/wptest",
+    "autoload": {
+        "psr-4": {
+            "E2scala\\Wptest\\": "src/"
+        }
+    },
+    "require": {}
+}

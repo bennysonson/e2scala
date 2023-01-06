@@ -1,0 +1,11 @@
+{
+    "name": "e2scala/listserv-plugin",
+    "autoload": {
+        "psr-4": {
+            "E2scala\\E2scalaListserv\\": "src/"
+        }
+    },
+    "require-dev": {
+        "yoast/phpunit-polyfills": "^1.0"
+    }
+}

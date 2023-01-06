@@ -1,0 +1,9 @@
+<phpunit bootstrap="tests/phpunit/bootstrap.php" backupGlobals="false"
+        colors="false" convertErrorsToExceptions="true"
+        convertNoticesToExceptions="true" convertWarningsToExceptions="true">
+        <testsuites>
+                <testsuite name="E2SCALA Listserv Tests">
+                        <file>tests/phpunit/tests/test-e2scala-listserv.php</file>
+                </testsuite>
+        </testsuites>
+</phpunit>
