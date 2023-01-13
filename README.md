@@ -10,4 +10,4 @@ The requirements of phase 2 were focused on increasing community engagement and 
 - Displayable Twitter Feed
 - Filter and search members
 
-The project was created using WordPress, a plugin-based management framework to help with implementation.
+The project was created using WordPress, a plugin-based management framework to help with implementation. WordPress provides several third-party plugins to help with implementation, but for requirements that cannot be fulfilled with plugins, we wrote custom plugins to satisfy requirements. 
